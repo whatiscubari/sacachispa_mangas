@@ -4,5 +4,14 @@
   "artist": "Ushikuei",
   "author": "Ushikuei",
   "cover": "https://mangadex.org/covers/43f963e3-8839-41f8-912e-38e44f761ac8/5d6cc978-1e41-430e-a791-5b0451d44660.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1781684214",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/qe4g33edryj"
+      }
+    }
+  }
 }
