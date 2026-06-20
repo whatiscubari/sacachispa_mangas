@@ -4,5 +4,14 @@
   "artist": "Kanmuri",
   "author": "Onikage Supana",
   "cover": "https://mangadex.org/covers/1548a4c8-db3c-4bab-8916-a2c202160026/c0ef4c81-a866-4f8b-b21d-9a99be6627db.jpg",
-  "chapters": {}
+  "chapters": {
+    "11": {
+      "title": "11",
+      "volume": "",
+      "last_updated": "1781990103",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/9rydd8wmdyk"
+      }
+    }
+  }
 }
