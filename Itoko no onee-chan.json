@@ -4,5 +4,110 @@
   "artist": "Igarashi Kyouhei",
   "author": "Igarashi Kyouhei",
   "cover": "https://mangadex.org/covers/ae55f0e6-d979-4a55-865e-352ac49d5527/919c1329-786a-4695-b5bd-53d423c76ab8.jpg",
-  "chapters": {}
+  "chapters": {
+    "27": {
+      "title": "27",
+      "volume": "",
+      "last_updated": "1783308524",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/5xy25a68zyl"
+      }
+    },
+    "28": {
+      "title": "28",
+      "volume": "",
+      "last_updated": "1783308597",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/vj4jpkbg948"
+      }
+    },
+    "29": {
+      "title": "29",
+      "volume": "",
+      "last_updated": "1783308625",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/lqyek2bgzyd"
+      }
+    },
+    "30": {
+      "title": "30",
+      "volume": "",
+      "last_updated": "1783308632",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/bp45vp95vy5"
+      }
+    },
+    "31": {
+      "title": "31",
+      "volume": "",
+      "last_updated": "1783308757",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/bp45vp9mvy5"
+      }
+    },
+    "32": {
+      "title": "32",
+      "volume": "",
+      "last_updated": "1783308901",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/qb4z2eomv4j"
+      }
+    },
+    "33": {
+      "title": "33",
+      "volume": "",
+      "last_updated": "1783308946",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/vj4jpkb6e48"
+      }
+    },
+    "34": {
+      "title": "34",
+      "volume": "",
+      "last_updated": "1783308982",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/9p4nowbql7n"
+      }
+    },
+    "35": {
+      "title": "35",
+      "volume": "",
+      "last_updated": "1783309039",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/ne7b9dbovy5"
+      }
+    },
+    "36": {
+      "title": "36",
+      "volume": "",
+      "last_updated": "1783309096",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/dl7ppeobk7o"
+      }
+    },
+    "37": {
+      "title": "37",
+      "volume": "",
+      "last_updated": "1783309141",
+      "groups": {
+        "SACACHISPA SCANLATION": "http://imgchest.com/p/xny8nvjnpyb"
+      }
+    },
+    "38": {
+      "title": "38",
+      "volume": "",
+      "last_updated": "1783309196",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/ne7b9db9ky5"
+      }
+    },
+    "30.5": {
+      "title": "30.5",
+      "volume": "",
+      "last_updated": "1783308710",
+      "groups": {
+        "SACACHISPA SCANLATION": "/proxy/api/imgchest/chapter/n87wpdomq4x"
+      }
+    }
+  }
 }
